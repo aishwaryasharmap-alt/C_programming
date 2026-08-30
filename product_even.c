@@ -11,7 +11,7 @@ int main()
         p = p * i;
     }
 
-    printf("%d", p);
+    printf("The product of even numbers is %d", p);
 
     return 0;
 }
